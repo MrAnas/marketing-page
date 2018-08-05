@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'FontLight';
+    src: url('../fonts/ar/FFShamelFamily-UniqueLight.eot');
+    src: url('../fonts/ar/FFShamelFamily-UniqueLight.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/ar/FFShamelFamily-UniqueLight.woff2') format('woff2'),
+    url('../fonts/ar/FFShamelFamily-UniqueLight.woff') format('woff'),
+    url('../fonts/ar/FFShamelFamily-UniqueLight.ttf') format('truetype'),
+    url('../fonts/ar/FFShamelFamily-UniqueLight.svg#ArabicUIDisplay-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    }
+  
+    @font-face {
+    font-family: 'FontBold';
+    src: url('../fonts/ar/FFShamelFamily-UniqueBold.eot');
+    src: url('../fonts/ar/FFShamelFamily-UniqueBold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/ar/FFShamelFamily-UniqueBold.woff2') format('woff2'),
+    url('../fonts/ar/FFShamelFamily-UniqueBold.woff') format('woff'),
+    url('../fonts/ar/FFShamelFamily-UniqueBold.ttf') format('truetype'),
+    url('../fonts/ar/FFShamelFamily-UniqueBold.svg#ArabicUIDisplay-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    }
+  
+      @font-face {
+    font-family: 'FontBook';
+    src: url('../fonts/ar/FFShamelFamily-UniqueBook.eot');
+    src: url('../fonts/ar/FFShamelFamily-UniqueBook.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/ar/FFShamelFamily-UniqueBook.woff2') format('woff2'),
+    url('../fonts/ar/FFShamelFamily-UniqueBook.woff') format('woff'),
+    url('../fonts/ar/FFShamelFamily-UniqueBook.ttf') format('truetype'),
+    url('../fonts/ar/FFShamelFamily-UniqueBook.svg#ArabicUIDisplay-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    }
+  
+      @font-face {
+    font-family: 'FontMedium';
+    src: url('../fonts/ar/FFShamelFamily-UniqueMedium.eot');
+    src: url('../fonts/ar/FFShamelFamily-UniqueMedium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/ar/FFShamelFamily-UniqueMedium.woff2') format('woff2'),
+    url('../fonts/ar/FFShamelFamily-UniqueMedium.woff') format('woff'),
+    url('../fonts/ar/FFShamelFamily-UniqueMedium.ttf') format('truetype'),
+    url('../fonts/ar/FFShamelFamily-UniqueMedium.svg#ArabicUIDisplay-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    }    
+
+.page-ad{text-align: center;}
+.page-ad button{margin:auto;}
